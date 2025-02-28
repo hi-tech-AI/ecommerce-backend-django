@@ -4,7 +4,7 @@ Django backend for eCommerce project
 
 This project is built using Django REST Framework to provide the backend API
 for the eCommerce project. The frontend is available
-[here](https://github.com/kkosiba/ecommerce-frontend).
+[here](https://github.com/hi-tech-AI/ecommerce-frontend).
 
 ## Features
 

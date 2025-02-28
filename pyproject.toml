@@ -21,7 +21,6 @@ classifiers = [
 
 [project.optional-dependencies]
 base = [
-  # django-webpack-loader
   "Django>=5.1,<5.2",
   "Pillow",
   "django-allauth",
@@ -47,7 +46,7 @@ production = [
 ]
 
 [project.urls]
-Repository = "https://github.com/kkosiba/ecommerce-backend"
+Repository = "https://github.com/hi-tech-AI/ecommerce-backend-djano"
 
 [tool.setuptools]
 py-modules = []
