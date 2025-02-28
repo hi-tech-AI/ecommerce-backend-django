@@ -46,7 +46,7 @@ production = [
 ]
 
 [project.urls]
-Repository = "https://github.com/hi-tech-AI/ecommerce-backend-djano"
+Repository = "https://github.com/hi-tech-AI/ecommerce-backend-django"
 
 [tool.setuptools]
 py-modules = []
